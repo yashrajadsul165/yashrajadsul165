@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Hi, I'm Yashraj Adsul
 
-<!--
-**yashrajadsul165/yashrajadsul165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+AI & Data Science Engineering Student passionate about Machine Learning, Artificial Intelligence and Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+💻 Python
+
+📊 SQL
+
+🤖 Machine Learning
+
+📈 Data Analytics
+
+📉 Data Visualization
+
+🐼 Pandas
+
+🔢 NumPy
+
+📊 Matplotlib
+
+🧠 Scikit-Learn
+
+🌐 Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+• Machine Learning
+
+• Deep Learning
+
+• Data Science
+
+• Artificial Intelligence
+
+---
+
+## 💼 Projects
+
+🌦 Weather Prediction
+
+🤖 Face Recognition Attendance System
+
+🚗 Automatic Vehicle Accident Alert System
+
+📊 Data Analytics Dashboard
+
+📈 Stock Market Analysis
+
+---
+
+## 🎯 Goals
+
+✔ Build Real World AI Projects
+
+✔ Contribute to Open Source
+
+✔ Become Data Scientist
+
+---
+
+## 📫 Contact
+
+📧 Email: your-email@gmail.com
+
+🔗 LinkedIn: Add Your LinkedIn Link
+
+---
+
+⭐ Thanks for visiting my profile!
