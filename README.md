@@ -1,77 +1,71 @@
 # 👋 Hi, I'm Yashraj Adsul
 
-## 🎓 About Me
-
-AI & Data Science Engineering Student passionate about Machine Learning, Artificial Intelligence and Data Analytics.
+🎓 AI & Data Science Engineering Student  
+💻 Passionate about Machine Learning, Data Science & Artificial Intelligence  
+🌱 Currently learning Deep Learning & Generative AI  
+🚀 Building real-world AI and Data Science projects
 
 ---
 
-## 🚀 Skills
+## 🚀 Tech Stack
 
-💻 Python
+- 🐍 Python
+- ☕ Java
+- 🗄️ SQL
+- 📊 Pandas
+- 🔢 NumPy
+- 📈 Matplotlib
+- 🤖 Scikit-learn
+- 📓 Jupyter Notebook
+- 💻 Visual Studio Code
+- 🌐 Git & GitHub
 
-📊 SQL
+---
 
-🤖 Machine Learning
+## 📂 Featured Projects
 
-📈 Data Analytics
+### 🌦 Weather Prediction
+Machine Learning model for predicting weather using historical data.
 
-📉 Data Visualization
+### 🤖 Face Recognition Attendance System
+Attendance system using Python, OpenCV and face recognition.
 
-🐼 Pandas
+### 🚗 Automatic Vehicle Accident Alert System
+Arduino and GPS-based accident detection and emergency alert system.
 
-🔢 NumPy
+### 📈 Stock Market Analysis
+Python project for stock market data analysis and visualization.
 
-📊 Matplotlib
+---
 
-🧠 Scikit-Learn
+## 🎯 Career Objective
 
-🌐 Git & GitHub
+I am seeking opportunities in:
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Data Analytics
 
 ---
 
 ## 📚 Currently Learning
 
-• Machine Learning
-
-• Deep Learning
-
-• Data Science
-
-• Artificial Intelligence
+- Deep Learning
+- Generative AI
+- Data Visualization
+- Advanced Python
 
 ---
 
-## 💼 Projects
+## 📫 Connect with Me
 
-🌦 Weather Prediction
+📧 **Email:** yashrajadsul165@gmail.com
 
-🤖 Face Recognition Attendance System
+📞 **Phone:** +91 9028386294
 
-🚗 Automatic Vehicle Accident Alert System
-
-📊 Data Analytics Dashboard
-
-📈 Stock Market Analysis
+💼 **LinkedIn:** https://www.linkedin.com/in/yashraj-adsul-b69a8b2b4
 
 ---
 
-## 🎯 Goals
-
-✔ Build Real World AI Projects
-
-✔ Contribute to Open Source
-
-✔ Become Data Scientist
-
----
-
-## 📫 Contact
-
-📧 Email: your-email@gmail.com
-
-🔗 LinkedIn: Add Your LinkedIn Link
-
----
-
-⭐ Thanks for visiting my profile!
+⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
