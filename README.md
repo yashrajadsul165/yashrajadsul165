@@ -62,8 +62,6 @@ I am seeking opportunities in:
 
 📧 **Email:** yashrajadsul165@gmail.com
 
-📞 **Phone:** +91 9028386294
-
 💼 **LinkedIn:** https://www.linkedin.com/in/yashraj-adsul-b69a8b2b4
 
 ---
