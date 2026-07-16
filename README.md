@@ -1,69 +1,45 @@
-# 👋 Hi, I'm Yashraj Adsul
+# Hi, I'm Yashraj Adsul 👋
 
-🎓 AI & Data Science Engineering Student  
-💻 Passionate about Machine Learning, Data Science & Artificial Intelligence  
-🌱 Currently learning Deep Learning & Generative AI  
-🚀 Building real-world AI and Data Science projects
+AI & Data Science Engineering student at ADYPU, Pune, interested in machine learning, data analytics and practical AI applications.
 
----
+## About me
 
-## 🚀 Tech Stack
+- Building reproducible Python and machine-learning projects
+- Comfortable with data cleaning, visualisation and model evaluation
+- Currently learning deep learning, generative AI and advanced Python
+- Open to AI, machine-learning, data-science and data-analytics opportunities
 
-- 🐍 Python
-- ☕ Java
-- 🗄️ SQL
-- 📊 Pandas
-- 🔢 NumPy
-- 📈 Matplotlib
-- 🤖 Scikit-learn
-- 📓 Jupyter Notebook
-- 💻 Visual Studio Code
-- 🌐 Git & GitHub
+## Featured projects
 
----
+### [Weather Prediction with Machine Learning](https://github.com/yashrajadsul165/Weather-Prediction-ML)
 
-## 📂 Featured Projects
+Rainfall prediction project using Python and a Random Forest model. Includes a dataset, notebook, training pipeline, command-line prediction, evaluation metrics and visualisations.
 
-### 🌦 Weather Prediction
-Machine Learning model for predicting weather using historical data.
+`Python` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Jupyter`
 
-### 🤖 Face Recognition Attendance System
-Attendance system using Python, OpenCV and face recognition.
+### [Face Recognition Attendance System](https://github.com/yashrajadsul165/Face-Recognition-Attendance-System)
 
-### 🚗 Automatic Vehicle Accident Alert System
-Arduino and GPS-based accident detection and emergency alert system.
+Webcam-based attendance application with face registration, recognition, daily CSV reports, duplicate prevention, privacy-safe Git settings and automated tests.
 
-### 📈 Stock Market Analysis
-Python project for stock market data analysis and visualization.
+`Python` · `OpenCV` · `face-recognition` · `NumPy` · `GitHub Actions`
 
----
+## Technical skills
 
-## 🎯 Career Objective
+| Area | Technologies |
+|---|---|
+| Languages | Python, Java, SQL |
+| Data analysis | Pandas, NumPy, Matplotlib |
+| Machine learning | Scikit-learn, model training, model evaluation |
+| Tools | Git, GitHub, Jupyter Notebook, Visual Studio Code |
 
-I am seeking opportunities in:
+## Currently learning
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Data Analytics
-
----
-
-## 📚 Currently Learning
-
-- Deep Learning
+- Deep learning
 - Generative AI
-- Data Visualization
+- Data visualisation
 - Advanced Python
 
----
+## Connect with me
 
-## 📫 Connect with Me
-
-📧 **Email:** yashrajadsul165@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/yashraj-adsul-b69a8b2b4
-
----
-
-⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+- [LinkedIn](https://www.linkedin.com/in/yashraj-adsul-b69a8b2b4)
+- [Email](mailto:yashrajadsul165@gmail.com)
