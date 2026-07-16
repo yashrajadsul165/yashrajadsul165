@@ -41,5 +41,5 @@ Webcam-based attendance application with face registration, recognition, daily C
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/yashraj-adsul-b69a8b2b4)
+- [LinkedIn](https://www.linkedin.com/in/yashraj-adsul)
 - [Email](mailto:yashrajadsul165@gmail.com)
